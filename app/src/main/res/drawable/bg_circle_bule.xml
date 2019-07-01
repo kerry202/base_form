@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="8dp" />
+
+
+    <!-- angle=0 从左到右  270从上到下 -->
+    <gradient
+        android:angle="0"
+        android:endColor="@color/bg_bule_408"
+        android:startColor="@color/bg_bule_1b6" />
+
+</shape>

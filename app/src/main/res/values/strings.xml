@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Test</string>
+
+    <string name="txt_login">登录/注册</string>
+    <string name="txt_skip">跳过</string>
+    <string name="txt_input_phonenumber">请输入手机号</string>
+    <string name="txt_phonenumber">手机号码</string>
+    <string name="txt_get_code">获取验证码</string>
+    <string name="txt_input_code">请输入验证码</string>
+    <string name="txt_code">验证码</string>
+    <string name="txt_login_deal1">点击登录/注册即代表您同意</string>
+    <string name="txt_login_deal2">《xxx信贷注册协议》</string>
+
+
+</resources>
